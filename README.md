@@ -55,17 +55,13 @@ Explain how users can interact with your Wine Chatbot application.
 - Check the chat history to review previous interactions.
 
 
-#### License
-
-Specify the license under which your project is distributed.
-
 #### Credits
 
-Acknowledge any individuals or organizations whose work or contributions helped in developing your project.
+Credit goes to Kartavya Master if you have any ideas to contribute/improve the performance of ChatBot, You are welcome :)
 
 #### Contact Information
 
-Provide your contact details for users to reach out for questions or feedback.
+Email : kartavyamaster17@gmail.com
 
 ---
 
